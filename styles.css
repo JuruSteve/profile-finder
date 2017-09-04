@@ -1,0 +1,27 @@
+body{
+    background-color: #3CB47F;
+}
+nav{
+    background-color: #000000;
+}
+.navbar-brand{
+    color:white;
+}
+nav #home{
+    color:#2D4880;
+}
+.jumbotron{
+    background-color:#2D4880;
+}
+.jumbotron .title{
+    color: white;
+}
+.avi{
+    width:100%;
+}
+.plug{
+    color: black;
+}
+.plug:hover{
+    color: black;
+    }
